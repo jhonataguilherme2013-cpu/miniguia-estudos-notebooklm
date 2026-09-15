@@ -33,3 +33,34 @@ Este agente tem como papel, servir para o nosso trabalho acadêmico a respeito d
 
 Foi criado e usado este arquivo de texto para explicar o intuito deste agente para o nosso trabalho acadêmico e treinamento do bootcamp. E como dito anteriormente usei o nosso próprio artigo para servir de exemplo sobre qual tema estamos falando e o tipo de linguagem usar. E pode ver as respostas geradas por este agente nas linhas acima que pesguntei a ele para já entregar um material completo de como ele ficou e as respostas. 
 
+Miniguia de Estudo: O Poder do NotebookLM
+1. Resumos Estruturados do Assunto
+O Conceito de um "Agente Focado": O NotebookLM funciona como um assistente de estudos altamente especializado. Ao alimentar a ferramenta com fontes específicas (artigos, sites e vídeos reais), o modelo filtra seu "pensamento" para atuar exclusivamente dentro daquele contexto. Isso garante respostas muito mais precisas e focadas no tema escolhido.
+
+Embasamento e Confiabilidade: Diferente de IAs generativas abertas, que podem "alucinar" ou trazer informações genéricas, o NotebookLM cria respostas com base estrita no material fornecido. Ele aponta exatamente de onde tirou cada informação, o que traz muita segurança para quem está estudando.
+
+Personalização do Aprendizado (Persona): Uma das maiores vantagens da ferramenta é a capacidade de moldar a forma como a IA se comunica. Ao definir instruções claras de formato — como pedir um tom descontraído, jovial, claro e sem termos técnicos excessivos —, o aprendizado se torna muito mais leve, dinâmico e fácil de absorver.
+
+2. Glossário com os Principais Conceitos Aprendidos
+Agente / Assistente Especialista: Uma Inteligência Artificial configurada para operar e responder apenas dentro de um escopo de informações predeterminado pelo usuário.
+
+Embasamento (Grounding): A capacidade do modelo de ancorar suas respostas estritamente nas fontes (documentos, links) fornecidas, reduzindo o risco de informações falsas ou fora de contexto.
+
+Persona / Instrução de Formato: A personalidade ou estilo de comunicação atribuído à IA (ex: agir como um professor jovem, usar linguagem descontraída, evitar jargões).
+
+Fontes de Dados (Sources): O conjunto de materiais reais (PDFs, sites, vídeos) que o usuário faz o upload e que servem de "cérebro" para as respostas do NotebookLM.
+
+3. Conjunto de Prompts Reutilizáveis para Revisões
+(Estes prompts foram desenhados pensando no tom descontraído e jovial que você configurou no seu projeto)
+
+Para entender conceitos difíceis:
+"Explique o conceito de [INSERIR TEMA] como se você estivesse me mandando um áudio no WhatsApp. Use exemplos do dia a dia, seja super claro e deixe de fora os termos técnicos complicados."
+
+Para criar resumos rápidos:
+"Dê uma olhada na fonte [NOME DO DOCUMENTO/SITE] e me resuma os 3 pontos mais importantes em formato de tópicos rápidos. Seja direto e use um tom descontraído."
+
+Para testar o conhecimento (Revisão Ativa):
+"Baseado em todas as fontes que te enviei, crie um quiz de 5 perguntas de múltipla escolha sobre [TEMA] para eu testar o que aprendi. Só me dê o gabarito e as explicações depois que eu responder!"
+
+Para conectar ideias:
+"Como o conceito de [CONCEITO A] se relaciona com [CONCEITO B]? Me dê uma resposta curta, com uma analogia divertida para eu nunca mais esquecer."
