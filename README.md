@@ -52,15 +52,3 @@ Fontes de Dados (Sources): O conjunto de materiais reais (PDFs, sites, vídeos) 
 
 3. Conjunto de Prompts Reutilizáveis para Revisões
 (Estes prompts foram desenhados pensando no tom descontraído e jovial que você configurou no seu projeto)
-
-Para entender conceitos difíceis:
-"Explique o conceito de [INSERIR TEMA] como se você estivesse me mandando um áudio no WhatsApp. Use exemplos do dia a dia, seja super claro e deixe de fora os termos técnicos complicados."
-
-Para criar resumos rápidos:
-"Dê uma olhada na fonte [NOME DO DOCUMENTO/SITE] e me resuma os 3 pontos mais importantes em formato de tópicos rápidos. Seja direto e use um tom descontraído."
-
-Para testar o conhecimento (Revisão Ativa):
-"Baseado em todas as fontes que te enviei, crie um quiz de 5 perguntas de múltipla escolha sobre [TEMA] para eu testar o que aprendi. Só me dê o gabarito e as explicações depois que eu responder!"
-
-Para conectar ideias:
-"Como o conceito de [CONCEITO A] se relaciona com [CONCEITO B]? Me dê uma resposta curta, com uma analogia divertida para eu nunca mais esquecer."
